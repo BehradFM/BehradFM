@@ -1,16 +1,12 @@
-## Hi there 👋
+Hi, I'm Behrad!
+Passionate about machine learning, deep learning, and data analysis. I enjoy transforming complex data into meaningful insights and building predictive models. Solving real-world problems with AI and innovative solutions excites me.
 
-<!--
-**BehradFM/BehradFM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills & Tools:
+Python	Machine Learning	Deep Learning
+Python	Machine Learning	Deep Learning
+GitHub Stats:
+GitHub stats
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact Me:
+Email: bfarzmahdi@gmail.com
+LinkedIn: BehradFM
